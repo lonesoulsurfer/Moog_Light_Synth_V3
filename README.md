@@ -7,7 +7,7 @@ This synth has a pulse-width-modulated (PWM) oscillator and a light-controlled r
 ## Build guide and video
 
 - Step-by-step build guide on Instructables: [Moog Light Synth V3](https://www.instructables.com/Moog-Light-Synth-V3/)
-- Video on YouTube: not available yet.
+- Video on YouTube: [Moog Light Synth V3](https://www.youtube.com/watch?v=9Q7pgyfTjew)
 
 ## Features
 
@@ -22,11 +22,7 @@ This synth has a pulse-width-modulated (PWM) oscillator and a light-controlled r
 ## What you need
 
 - The Gerber files for the PCB are in `Moog Light Synth V3 - Gerber Files.zip`. You can send them to a PCB maker.
-- The parts list is in the Instructables guide.
-
-> **Note:** These design files are not in this repository yet:
-> - Eagle files (schematic and board)
-> - Front panel design
+- All parts are in the parts list (`Moog Light Synth V3 - Parts List.xlsx`).
 
 ## Build it
 
@@ -42,6 +38,9 @@ The Instructables guide shows each step, with photos. In short:
 | Folder or file | Contents |
 |----------------|----------|
 | `Moog Light Synth V3 - Gerber Files.zip` | Gerber files for the PCB, ready to order |
+| `Eagle Schematic and Board/` | Eagle files for the PCB |
+| `Front Panel/` | Front panel design (SVG and PDF) |
+| `Moog Light Synth V3 - Parts List.xlsx` | Parts list |
 
 ## Support
 
